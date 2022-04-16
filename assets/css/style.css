@@ -1,0 +1,13 @@
+/*navbar*/
+
+.navbar {
+    background-color: rgb(57, 137, 137);
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar img {
+    width: 50px;
+
+}
