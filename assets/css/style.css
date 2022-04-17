@@ -1,8 +1,11 @@
 body{
     margin: auto;
     padding: auto;
-    background-color: rgb(57, 137, 137);
-    background-color: ;
+    color: #fff;
+    background-color: black;
+    font-family: "Raleway", sans-serif;
+  
+    
 }
 
 /*navbar*/
@@ -37,6 +40,21 @@ body{
 #quienessomos i{
     background-color: deepskyblue;
     text-align: center;
-    size: 200px;
     width: 400px;
+    height: 40px;
+}
+
+#destacado{
+    background-color: black;
+    
+}
+
+#destacado p {
+    background-color: deepskyblue;
+   color: aliceblue;
+}
+
+#destacado .card-body {
+    background-color: deepskyblue;
+    
 }
