@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: auto !important;
+}
+
 body{
     margin: auto;
     padding: auto;
@@ -31,6 +35,7 @@ body{
     background-attachment: fixed;
 }
 
+/*quienes somos*/
 #quienessomos {
     background-color: black;
     color: aliceblue;
@@ -44,6 +49,7 @@ body{
     height: 40px;
 }
 
+/*destacado*/
 #destacado{
     background-color: black;
     
@@ -54,7 +60,20 @@ body{
    color: aliceblue;
 }
 
+/*cards*/
 #destacado .card-body {
     background-color: deepskyblue;
     
+}
+
+/*footer*/
+
+#footer {
+    background-color: deepskyblue;
+    
+}
+
+#footer a{
+    color: #fff;
+    text-decoration: none;
 }
