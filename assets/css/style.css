@@ -23,11 +23,20 @@ body{
 
 #hero-section {
     background-repeat: no-repeat;
-    background-size: auto;
-    background-position: center;
-    height: 100%;
-    bottom: 45px;
-    position: relative;
-    margin: auto;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
+#quienessomos {
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+#quienessomos i{
+    background-color: deepskyblue;
+    text-align: center;
+    size: 200px;
+    width: 400px;
+}
